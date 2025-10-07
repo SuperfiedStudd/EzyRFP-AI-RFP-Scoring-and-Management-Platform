@@ -1,4 +1,4 @@
-# EzyRFP – AI-Powered RFP Management Platform   
+# EzyRFP: AI-Powered RFP Management Platform   
 
 ![EzyRFP Logo](assets/ezyrfp-logo.png)
 
