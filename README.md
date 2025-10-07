@@ -1,74 +1,70 @@
 # EzyRFP – AI-Powered RFP Management Platform  
-*Commissioned by Meher Consulting | Developed by Jasjyot Singh*  
+Developed by Jasjyot Singh  
 
 ![EzyRFP Logo](assets/ezyrfp-logo.png)
 
-🎬 **[Watch Product Demo](assets/ezyrfp-demo.mp4)**  
-🌐 **[Visit Product Page](https://ezyrfp.meherconsulting.com)**  
+**[Watch Product Demo](assets/ezyrfp-demo.mp4)**  
+**[Visit Product Page](https://ezyrfp.com)**  
 
 ---
 
-## 🧩 Overview  
-EzyRFP is an AI-powered RFP management platform designed to streamline vendor evaluation, automate scoring, and generate executive summaries — all within a single interface.  
-
-The project was commissioned by **Meher Consulting** and developed by **Jasjyot Singh**, showcasing the integration of no-code development with OpenAI’s Assistant API for automated proposal analysis.  
-
----
-
-## 🔍 Problem Statement  
-Traditional RFP evaluation processes are manual, time-consuming, and prone to bias.  
-EzyRFP automates the most repetitive and subjective parts of the process — from assigning vendors and collecting proposals to scoring and summarizing responses — cutting review time by up to 80%.  
+## Overview  
+EzyRFP is an AI-powered Request for Proposal (RFP) management platform commissioned by **Meher Consulting** and developed to streamline vendor evaluation, automate scoring, and generate executive summaries within a unified interface.  
+The platform demonstrates the integration of no-code development with OpenAI’s Assistant API to automate proposal analysis and decision support.  
 
 ---
 
-## 🧠 Key Features  
-- AI-generated vendor questions based on RFP documents  
-- Auto-scored vendor responses with question-level weightage  
-- Executive summaries for each proposal  
-- Overall comparison and leaderboard generation  
-- Separate portals for Clients and Vendors  
+## Problem Statement  
+Traditional RFP evaluations are often slow, manual, and subjective.  
+EzyRFP addresses this by automating vendor assignment, response collection, and scoring, transforming the process into a fast, consistent, and data-driven workflow.  
 
 ---
 
-## ⚙️ Technical Stack  
+## Key Features  
+• AI-generated vendor questions derived from RFP documents  
+• Automated scoring with configurable question weightage  
+• Executive summaries for each proposal  
+• Leaderboard for vendor comparison  
+• Separate client and vendor portals with secure access  
+
+---
+
+## Technical Stack  
 
 | Component | Technology Used |
 |------------|-----------------|
-| **Platform** | Bubble.io |
-| **AI Layer** | OpenAI Assistant API |
-| **Data Objects** | `Rfp`, `RfpAnswers`, `RfpQuestion`, `RfpResponse`, `RfpResponseFile`, `RfpResponseMaster`, `RfpAssignment`, `User`, `Vendors` |
+| Platform | Bubble.io |
+| AI Layer | OpenAI Assistant API |
+| Data Objects | `Rfp`, `RfpAnswers`, `RfpQuestion`, `RfpResponse`, `RfpResponseFile`, `RfpResponseMaster`, `RfpAssignment`, `User`, `Vendors` |
 
 ---
 
-## 🧪 How It Works  
-1. **Clients** create RFPs, upload documents, and invite vendors.  
-2. **Vendors** submit answers and files through a dedicated portal.  
-3. The **Assistant API** evaluates submissions using stored QnA data.  
-4. **Weighted scores** are calculated per question, generating an overall rating.  
-5. The app compiles **executive summaries** and a **leaderboard** for quick comparison.  
+## How It Works  
+1. Clients create RFPs, upload relevant documents, and invite vendors.  
+2. Vendors submit responses and supporting files through their portal.  
+3. The Assistant API evaluates submissions based on stored question-answer data.  
+4. Weighted scores are calculated per question to produce overall ratings.  
+5. Executive summaries and leaderboards are generated for comparative insights.  
 
 ---
 
-## 🧭 Learning Outcomes  
-- Built end-to-end RFP automation using Bubble.io  
-- Integrated OpenAI Assistant API for multi-layered scoring  
-- Designed JSON-based data handling for AI evaluations  
-- Structured scoring logic with per-question weightage  
+## Learning Outcomes  
+• Built a complete RFP automation workflow using Bubble.io  
+• Integrated OpenAI’s Assistant API for intelligent proposal evaluation  
+• Structured JSON data for AI processing and multi-file analysis  
+• Designed scoring logic supporting customizable weightage  
 
 ---
 
-## 🚀 Future Enhancements  
-- Add system architecture visualization  
-- Build Power BI analytics dashboard for leaderboard insights  
-- Enable API-based third-party integrations  
+## Future Enhancements  
+• Add system architecture and workflow diagrams  
+• Create Power BI dashboards for leaderboard analytics  
+• Extend integration with external procurement systems  
 
 ---
 
-## 👤 Author  
+## Author  
 **Jasjyot Singh**  
-📧 jasjyotsingh.work@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/jasjyot-singh-14a8aa217/) | [GitHub](https://github.com/SuperfiedStudd)
-
----
-
-> *This project was commissioned by Meher Consulting and developed independently by Jasjyot Singh for portfolio demonstration purposes.*
+Email: jasjyotsingh.work@gmail.com  
+LinkedIn: [linkedin.com/in/jasjyot-singh-14a8aa217](https://www.linkedin.com/in/jasjyot-singh-14a8aa217/)  
+GitHub: [github.com/SuperfiedStudd](https://github.com/SuperfiedStudd)  
