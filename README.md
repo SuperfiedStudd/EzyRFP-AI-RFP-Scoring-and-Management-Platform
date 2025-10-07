@@ -1,5 +1,4 @@
-# EzyRFP – AI-Powered RFP Management Platform  
-Developed by Jasjyot Singh  
+# EzyRFP – AI-Powered RFP Management Platform   
 
 ![EzyRFP Logo](assets/ezyrfp-logo.png)
 
