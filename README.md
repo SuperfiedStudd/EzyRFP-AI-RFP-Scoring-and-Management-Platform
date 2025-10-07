@@ -36,7 +36,7 @@ EzyRFP automates the most repetitive and subjective parts of the process — fro
 |------------|-----------------|
 | **Platform** | Bubble.io |
 | **AI Layer** | OpenAI Assistant API |
-| **Data Objects** | `RfpResponse`, `RfpAnswers`, `RfpAssignment` |
+| **Data Objects** | `Rfp`, `RfpAnswers`, `RfpQuestion`, `RfpResponse`, `RfpResponseFile`, `RfpResponseMaster`, `RfpAssignment`, `User`, `Vendors` |
 
 ---
 
