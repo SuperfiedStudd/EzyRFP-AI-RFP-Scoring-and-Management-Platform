@@ -3,7 +3,7 @@ Developed by Jasjyot Singh
 
 ![EzyRFP Logo](assets/ezyrfp-logo.png)
 
-**[Watch Product Demo](assets/ezyrfp-demo.mp4)**  
+**[Watch Product Demo](https://drive.google.com/file/d/14YdkKhlbYHDiHxhz8yhtW3Ma6zeinzDu/view?usp=sharing)**  
 **[Visit Product Page](https://ezyrfp.com)**  
 
 ---
