@@ -66,4 +66,3 @@ EzyRFP addresses this by automating vendor assignment, response collection, and 
 **Jasjyot Singh**  
 Email: jasjyotsingh.work@gmail.com  
 LinkedIn: [linkedin.com/in/jasjyot-singh-14a8aa217](https://www.linkedin.com/in/jasjyot-singh-14a8aa217/)  
-GitHub: [github.com/SuperfiedStudd](https://github.com/SuperfiedStudd)  
